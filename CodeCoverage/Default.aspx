@@ -4,7 +4,7 @@
 
     <div class="jumbotron">
         <h1>ASP.NET--ADDED Today (Friday)</h1>
-        <p class="lead">THIS IS THE TEST APP-V1</p>
+        <p class="lead">THIS IS THE TEST APP-V2</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
